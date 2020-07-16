@@ -17,4 +17,6 @@
 ![WhatsApp Image 2020-07-14 at 16 53 08](https://user-images.githubusercontent.com/46735362/87412810-a984d100-c5f3-11ea-987e-465434bb3019.jpeg)
 
 
-## -Video penjelasan tentang pembuatan aplikasi dan Demo running aplikasi
+## - Link youtube, video penjelasan tentang pembuatan aplikasi dan Demo aplikasi
+
+### [https://youtu.be/IoGI724QmVE](url)
